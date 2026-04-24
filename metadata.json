@@ -1,0 +1,6 @@
+{
+  "name": "SalgadoZap - Controle de Vendas",
+  "description": "App para vendedores de salgados anotarem consumos dos clientes e gerarem cobranças semanais via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
